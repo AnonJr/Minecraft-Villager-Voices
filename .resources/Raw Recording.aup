@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Raw Recording_data" version="1.3.0" audacityversion="2.3.3" sel0="36.6033560091" sel1="38.3158276644" vpos="0" h="35.0998639456" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="AnonJr"/>
+		<tag name="TITLE" value="Yes 3"/>
+		<tag name="COMMENTS" value="This is one of 3 &quot;Yes&quot; sounds"/>
+		<tag name="ALBUM" value="Custom Villager Voices v1.0.0"/>
+		<tag name="YEAR" value="2020"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="GENRE" value="Game Audio"/>
+	</tags>
+	<wavetrack name="Raw" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1728667">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808317.au" len="262144" min="-0.825378" max="0.402893" rms="0.051412"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080895c.au" len="262144" min="-0.385254" max="0.328339" rms="0.043295"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080859a.au" len="262144" min="-0.784302" max="0.568634" rms="0.051204"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808d2a.au" len="262144" min="-0.434326" max="0.29306" rms="0.056136"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08082c9.au" len="262144" min="-0.469055" max="0.318359" rms="0.055282"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808b5e.au" len="262144" min="-0.621613" max="0.346344" rms="0.068992"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e08085b1.au" len="155803" min="-0.46521" max="0.323029" rms="0.075201"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Pitch Shift" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1728667">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808492.au" len="262144" min="-0.824826" max="0.402794" rms="0.051975"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08080d2.au" len="262144" min="-0.384528" max="0.3273" rms="0.042784"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808cbb.au" len="262144" min="-0.781977" max="0.568462" rms="0.051173"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808093.au" len="262144" min="-0.434103" max="0.292955" rms="0.055805"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08089a7.au" len="262144" min="-0.468492" max="0.317524" rms="0.055105"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808691.au" len="262144" min="-0.621136" max="0.346143" rms="0.068893"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808610.au" len="155803" min="-0.463775" max="0.3214" rms="0.075009"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="39.19879819" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="151">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ac1.au" len="151" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
