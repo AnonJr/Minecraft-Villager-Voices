@@ -29,4 +29,4 @@ Sound Event | Sound Used | Subtitle | Subtitle ID | My Take
 All files are 44.1kHz mono, recorded in [Audacity](https://www.audacityteam.org/). I added a little bass and echo in [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/banana.htm) while doing the recording, and used a pitch shift plug-in to further alter the voice so it sounds less "me". The full Audacity project is in the `.resources` folder.
 
 # Install
-You should be able to get the latest release and add the `.zip` file like you would any other resource pack.
+Download the [latest release](https://github.com/AnonJr/Minecraft-Villager-Voices/releases) `.zip` file to your `resourcepacks` folder, and add it like you would any other resource pack.

@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Raw Recording_data" version="1.3.0" audacityversion="2.3.3" sel0="36.6033560091" sel1="38.3158276644" vpos="0" h="35.0998639456" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Raw Recording_data" version="1.3.0" audacityversion="2.3.3" sel0="1.2712925170" sel1="1.2712925170" vpos="0" h="0.0000000000" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ARTIST" value="AnonJr"/>
-		<tag name="TITLE" value="Yes 3"/>
-		<tag name="COMMENTS" value="This is one of 3 &quot;Yes&quot; sounds"/>
+		<tag name="TITLE" value="Idle 1"/>
+		<tag name="COMMENTS" value="This is one of 3 &quot;ambient&quot; sounds"/>
 		<tag name="ALBUM" value="Custom Villager Voices v1.0.0"/>
 		<tag name="YEAR" value="2020"/>
-		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="TRACKNUMBER" value="01"/>
 		<tag name="GENRE" value="Game Audio"/>
 	</tags>
 	<wavetrack name="Raw" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
@@ -42,25 +42,25 @@
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1728667">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808492.au" len="262144" min="-0.824826" max="0.402794" rms="0.051975"/>
+					<simpleblockfile filename="e0808ec7.au" len="262144" min="-1.0" max="0.488338" rms="0.063013"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e08080d2.au" len="262144" min="-0.384528" max="0.3273" rms="0.042784"/>
+					<simpleblockfile filename="e080898f.au" len="262144" min="-0.466193" max="0.396811" rms="0.05187"/>
 				</waveblock>
 				<waveblock start="524288">
-					<simpleblockfile filename="e0808cbb.au" len="262144" min="-0.781977" max="0.568462" rms="0.051173"/>
+					<simpleblockfile filename="e0808b78.au" len="262144" min="-0.948051" max="0.68919" rms="0.062041"/>
 				</waveblock>
 				<waveblock start="786432">
-					<simpleblockfile filename="e0808093.au" len="262144" min="-0.434103" max="0.292955" rms="0.055805"/>
+					<simpleblockfile filename="e0808c6a.au" len="262144" min="-0.526297" max="0.355172" rms="0.067657"/>
 				</waveblock>
 				<waveblock start="1048576">
-					<simpleblockfile filename="e08089a7.au" len="262144" min="-0.468492" max="0.317524" rms="0.055105"/>
+					<simpleblockfile filename="e0808545.au" len="262144" min="-0.567989" max="0.384959" rms="0.066808"/>
 				</waveblock>
 				<waveblock start="1310720">
-					<simpleblockfile filename="e0808691.au" len="262144" min="-0.621136" max="0.346143" rms="0.068893"/>
+					<simpleblockfile filename="e0808080.au" len="262144" min="-0.753052" max="0.419655" rms="0.083524"/>
 				</waveblock>
 				<waveblock start="1572864">
-					<simpleblockfile filename="e0808610.au" len="155803" min="-0.463775" max="0.3214" rms="0.075009"/>
+					<simpleblockfile filename="e0808acf.au" len="155803" min="-0.56227" max="0.389658" rms="0.09094"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -68,7 +68,7 @@
 		<waveclip offset="39.19879819" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="151">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808ac1.au" len="151" min="0.0" max="0.0" rms="0.0"/>
+					<simpleblockfile filename="e08087ab.au" len="151" min="0.0" max="0.0" rms="0.0"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
