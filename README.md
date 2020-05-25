@@ -1,4 +1,17 @@
 # Custom Villager Sounds
+This pack replaces all the villager vocalizations with some actual audio work, voiced by me, and altered so it's not me listening to me every trip to the trading hall. After watching Grian play with a pack that replaced the villager voices, and wanting to get into building resource and data packs for the game, I put this together.
+
+It's very definitely a "Version 1" resource pack at this juncture. My first concern was to make sure I could get this to work - which it does. Next version will be a little better scripted, a few more than two quick takes, and some more subtle changes to the voice pitch and tone.
+
+# Install
+Download the [latest release](https://github.com/AnonJr/Minecraft-Villager-Voices/releases) `.zip` file to your `resourcepacks` folder, and add it like you would any other resource pack.
+
+Alternate download locations:
+
+ * [Archive.org](https://archive.org/details/Custom_Villager_Sounds-v1.0.0)
+ * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-villager-sounds/)
+
+# Sound Information
 I wanted to get into building Data and Resource Packs for Minecraft, this is the first entry with a simple sound change on the villagers. Looking at the [Wiki page](https://minecraft.gamepedia.com/Villager), there are a few sounds to put together:
 
 Sound Event | Sound Used | Subtitle | Subtitle ID | My Take
@@ -27,6 +40,3 @@ Sound Event | Sound Used | Subtitle | Subtitle ID | My Take
 *???.ogg - It really looks like "Celebrate" uses the same sound files as "Yes", but the playable files on the wiki page have an accept#.ogg for the playable files. Not going to mess with it too much until I get the rest of the sounds set.
 
 All files are 44.1kHz mono, recorded in [Audacity](https://www.audacityteam.org/). I added a little bass and echo in [VoiceMeeter](https://www.vb-audio.com/Voicemeeter/banana.htm) while doing the recording, and used a pitch shift plug-in to further alter the voice so it sounds less "me". The full Audacity project is in the `.resources` folder.
-
-# Install
-Download the [latest release](https://github.com/AnonJr/Minecraft-Villager-Voices/releases) `.zip` file to your `resourcepacks` folder, and add it like you would any other resource pack.
