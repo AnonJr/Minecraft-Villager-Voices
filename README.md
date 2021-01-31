@@ -8,7 +8,7 @@ Download the [latest release](https://github.com/AnonJr/Minecraft-Villager-Voice
 
 Alternate download locations:
 
- * [Archive.org](https://archive.org/details/Custom_Villager_Sounds-v1.0.0)
+ * [Archive.org](https://archive.org/details/Custom_Villager_Sounds-v1.0.1)
  * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-villager-sounds/)
 
 # Sound Information
